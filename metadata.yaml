@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '217'
     url: http://www.gutenberg.org/2009/agents/217
     wikipedia: https://en.wikipedia.org/wiki/C._K._Scott_Moncrieff
+covers:
+- cover_type: archival
+  image_path: 66375-h/images/charterhouse02_cover.jpg
 creator:
   author:
     agent_name: Stendhal
@@ -26,6 +29,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Stendhal
     - https://en.wikipedia.org/wiki/Stendhal
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66375#The-Charterhouse-of-Parma-Volume-2
 gutenberg_issued: '2021-09-25'
 identifiers:
   gutenberg: '66375'
